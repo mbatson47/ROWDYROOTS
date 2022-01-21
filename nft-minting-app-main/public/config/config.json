@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1C0e0b1b38176D018920B4a70af859aE33e24285",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1c0e0b1b38176d018920b4a70af859ae33e24285",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rowdy Roots",
+  "SYMBOL": "RRNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rowdy-roots",
+  "SHOW_BACKGROUND": true
+}
